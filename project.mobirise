@@ -807,19 +807,45 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Love Lesson&nbsp;",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/xdKGxbRjDvE",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "I need Jesus 我要耶穌",
+                "active": false
               },
               {
                 "tags": "信仰人生 Faith ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-219452020-9-2-21-10-16.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/CIkJWx1O2DQ",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121-800x669.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Jesus Love Me 耶穌愛我",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/DCVD4Ts7npo",
+                "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121-800x669.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Isn't He Wonderful? 耶穌真奇妙",
                 "active": true
               }
             ]

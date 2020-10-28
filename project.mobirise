@@ -794,7 +794,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Praising to the end 頌讚到永遠&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "人生教誨 Life Lessons",
@@ -820,7 +820,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Love Lesson&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
@@ -872,7 +872,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Angel from Heaven 天跌落嚟嘅",
-                "active": true
+                "active": false
               }
             ]
           }

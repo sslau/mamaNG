@@ -1555,6 +1555,32 @@
               },
               {
                 "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/TTuuNWyoUjc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-800x450.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Rely on God 有主擔當一切&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-14-56-26.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Ou0r4fPk4Ms",
+                "image": "@PROJECT_PATH@/assets/images/family-of-4-681x504-518x388.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/family-of-4-681x504-518x388-518x388.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Psalm23 詩篇23篇",
+                "active": true
+              },
+              {
+                "tags": "信仰人生 Faith  ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1956412020-9-2-20-16-25.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/KBCFhlTQzMs",
@@ -1565,32 +1591,6 @@
                 "customStyle1": "display-7",
                 "caption": "Praising to the end 頌讚到永遠&nbsp;",
                 "active": false
-              },
-              {
-                "tags": "風趣幽默 Humor ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-36-27.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/Vg-9cFqWBKw",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Funny Granny 可愛的太婆&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "信仰人生 Faith  ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/TTuuNWyoUjc",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-800x450.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Rely on God 有主擔當一切&nbsp;",
-                "active": true
               }
             ]
           }

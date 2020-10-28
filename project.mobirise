@@ -1502,6 +1502,19 @@
                 "active": false
               },
               {
+                "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/TTuuNWyoUjc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-800x450.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Rely on God 有主擔當一切&nbsp;",
+                "active": false
+              },
+              {
                 "tags": "信仰人生 Faith ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-39-22.jpg",
                 "playVideo": true,
@@ -1537,7 +1550,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Isn't He Wonderful? 耶穌真奇妙",
+                "caption": "Isn't He Wonderful? 主耶穌真奇妙",
                 "active": false
               },
               {
@@ -1551,20 +1564,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Jesus Love Me 耶穌愛我",
-                "active": false
-              },
-              {
-                "tags": "信仰人生 Faith  ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/TTuuNWyoUjc",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-800x450.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Rely on God 有主擔當一切&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "信仰人生 Faith  ",
@@ -1577,7 +1577,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Psalm23 詩篇23篇",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-14-56-26.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Ou0r4fPk4Ms",
+                "image": "@PROJECT_PATH@/assets/images/img-20190722-wa0034-1200x1600-800x1067.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20190722-wa0034-1200x1600-800x1067-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Psalm23 詩篇23篇",
+                "active": false
               },
               {
                 "tags": "信仰人生 Faith  ",

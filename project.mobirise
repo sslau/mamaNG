@@ -801,6 +801,19 @@
               },
               {
                 "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-39-22.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/hUNIrfQqLQs",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Reading Bible 讀經的婆婆&nbsp;",
+                "active": true
+              },
+              {
+                "tags": "信仰人生 Faith ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/xdKGxbRjDvE",
@@ -863,19 +876,6 @@
                 "customStyle1": "display-7",
                 "caption": "Funny Granny 可愛的太婆&nbsp;",
                 "active": false
-              },
-              {
-                "tags": "信仰人生 Faith ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-39-22.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/hUNIrfQqLQs",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Reading Bible 讀經的婆婆&nbsp;",
-                "active": true
               }
             ]
           }

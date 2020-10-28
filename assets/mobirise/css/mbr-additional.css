@@ -1009,3 +1009,24 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-seGWkuD8Pw {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-seGWkuD8Pw .title {
+  margin-bottom: 2rem;
+}
+.cid-seGWkuD8Pw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-seGWkuD8Pw a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-seGWkuD8Pw a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-seGWkuD8Pw textarea.form-control {
+  min-height: 188px;
+}

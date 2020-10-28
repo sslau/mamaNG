@@ -742,20 +742,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Praise Him 詩歌頌讚",
-                "active": false
-              },
-              {
-                "tags": "風趣幽默 Humor",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-16-6.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/WCSt1_JsBUg",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020925-203442020-9-0-22-9-51.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020925-203442020-9-0-22-9-51-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Ah Fok 阿福",
-                "active": false
+                "active": true
               },
               {
                 "tags": "風趣幽默 Humor",
@@ -824,19 +811,6 @@
               },
               {
                 "tags": "人生教誨 Life Lessons",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/3hgwisHuVdE",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tell Caleb&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "人生教誨 Life Lessons",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-35-31.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/MpSkTPHa-7A",
@@ -884,8 +858,21 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "KissKiss 錫錫",
-                "active": true
+                "caption": "Jesus Love Me 耶穌愛我",
+                "active": false
+              },
+              {
+                "tags": "風趣幽默 Humor",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2141362020-9-2-21-50-22.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Ayez51eNoA8",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Angel from Heaven 天跌落嚟嘅",
+                "active": false
               }
             ]
           }

@@ -138,7 +138,7 @@
           },
           "_name": "content4",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    The Story of Grandma&nbsp; 婆婆的故事</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">by Kaitlynn Lam</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    The Story of Grandma&nbsp; 婆婆的故事</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">by MuMu</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "seBlcsVuxU",
           "_anchor": "content4-1a",
           "_protectedParams": [],
@@ -241,8 +241,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2.1-1-800x540.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/2.1-1-800x540-800x539.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/2.1-3-800x540.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/2.1-3-800x540-718x538.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -625,7 +625,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "No $$ No talk 有水行船",
-                "active": true
+                "active": false
               },
               {
                 "tags": "風趣幽默 Humor ",
@@ -693,19 +693,6 @@
                 "active": false
               },
               {
-                "tags": "人生教誨 Life Lessons ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/25OyAxNMcx4",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020925-203442020-9-0-22-9-51.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020925-203442020-9-0-22-9-51-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "No $$ No talk again 冇錢追不到&nbsp;",
-                "active": false
-              },
-              {
                 "tags": "信仰人生 Belief  ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
                 "playVideo": true,
@@ -743,6 +730,123 @@
                 "customStyle1": "display-7",
                 "caption": "Humor 風趣",
                 "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1941252020-9-2-19-44-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/yXw2M5I-ZGc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-7-18.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-7-18-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Met your hubby&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "人生教誨 Life Lessons",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/3hgwisHuVdE",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tell Caleb&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Belief  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1956412020-9-2-20-16-25.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/KBCFhlTQzMs",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Praising to the end 頌讚到永遠&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "人生教誨 Life Lessons",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1956412020-9-2-20-25-36.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/7wKKY6WJGI0",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "BabyTalk 要好好打算&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "人生教誨 Life Lessons",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/3hgwisHuVdE",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tell Caleb&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "人生教誨 Life Lessons",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-35-31.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/MpSkTPHa-7A",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Love Lesson&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-37-43.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Pl2sz36t9Rw",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-16.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-16-800x443.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Play ball 打波",
+                "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-508x356.jpeg",
+                "alt": "KissKiss",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "KissKiss 錫錫",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Belief  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-219452020-9-2-21-10-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/CIkJWx1O2DQ",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "KissKiss 錫錫",
+                "active": true
               }
             ]
           }
@@ -949,11 +1053,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Comments</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "seEIRsIAvN",
+          "_anchor": "content4-1o",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-1o"
+          "_params": {}
         }
       ]
     }

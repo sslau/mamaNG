@@ -16,7 +16,7 @@
         "display1Font": "Rubik",
         "display1Size": "4",
         "display2Font": "Lobster",
-        "display2Size": "2.5",
+        "display2Size": "3",
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Rubik",
@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.7.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 75,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -719,7 +719,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Rely on God 有主擔當一切",
-                "active": false
+                "active": true
               },
               {
                 "tags": "風趣幽默 Humor",
@@ -810,7 +810,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Reading Bible 讀經的婆婆&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "信仰人生 Faith ",
@@ -1429,6 +1429,259 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": false
+              }
+            ]
+          }
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "center"
+            }
+          },
+          "_name": "content6",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/faithhopelove-s-200x87.jpeg\" alt=\"Mobirise\">  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\"><p>Faith.Hope.Love</p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "seKgDwtzhl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-1z"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "overflow": "hidden",
+            "box-sizing": "border-box",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            }
+          },
+          "_name": "gallery2",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\"></div>\n    </div>\n\n</section>",
+          "_anchor": "gallery2-22",
+          "_isUserblock": true,
+          "_cid": "seKko7We1i",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-5",
+            "gallery__filtersBtnStyle": "btn-secondary-outline",
+            "gallery": [
+              {
+                "tags": "信仰人生 Faith",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/75FunVZpiNY",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-507x285.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Praise Him 詩歌頌讚",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-39-22.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/hUNIrfQqLQs",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-27-58-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Reading Bible 讀經的婆婆&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/xdKGxbRjDvE",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "I need Jesus 我要耶穌",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/DCVD4Ts7npo",
+                "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121-800x669.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Isn't He Wonderful? 耶穌真奇妙",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-219452020-9-2-21-10-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/CIkJWx1O2DQ",
+                "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121-800x669.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Jesus Love Me 耶穌愛我",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1956412020-9-2-20-16-25.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/KBCFhlTQzMs",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-20-28-800x450-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Praising to the end 頌讚到永遠&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "風趣幽默 Humor ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-36-27.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Vg-9cFqWBKw",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Funny Granny 可愛的太婆&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "信仰人生 Faith  ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/TTuuNWyoUjc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-800x450.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Praising to the end 頌讚到永遠&nbsp;",
+                "active": true
               }
             ]
           }

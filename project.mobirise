@@ -706,7 +706,7 @@
                 "active": false
               },
               {
-                "tags": "信仰人生 Belief  ",
+                "tags": "信仰人生 Faith",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-58-46.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/TTuuNWyoUjc",
@@ -732,7 +732,7 @@
                 "active": false
               },
               {
-                "tags": "信仰人生 Belief  ",
+                "tags": "信仰人生 Faith",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/75FunVZpiNY",
@@ -742,7 +742,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Praise Him 詩歌頌讚",
-                "active": true
+                "active": false
               },
               {
                 "tags": "風趣幽默 Humor",
@@ -784,7 +784,7 @@
                 "active": false
               },
               {
-                "tags": "信仰人生 Belief  ",
+                "tags": "信仰人生 Faith  ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1956412020-9-2-20-16-25.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/KBCFhlTQzMs",
@@ -849,7 +849,7 @@
                 "active": false
               },
               {
-                "tags": "信仰人生 Belief  ",
+                "tags": "信仰人生 Faith ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-219452020-9-2-21-10-16.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/CIkJWx1O2DQ",
@@ -862,7 +862,7 @@
                 "active": false
               },
               {
-                "tags": "風趣幽默 Humor",
+                "tags": "愛在疫中 Love in Pandemic",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2141362020-9-2-21-50-22.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/Ayez51eNoA8",
@@ -872,7 +872,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Angel from Heaven 天跌落嚟嘅",
-                "active": false
+                "active": true
               }
             ]
           }

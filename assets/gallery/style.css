@@ -37,6 +37,9 @@
 .mbr-gallery .mbr-gallery-item > div:hover .icon-video {
   opacity: 1; }
 
+.mbr-gallery .mbr-gallery-item > div .icon-video {
+  opacity: 1; }
+
 .mbr-gallery .mbr-gallery-item img {
   width: 100%;
   opacity: 1;

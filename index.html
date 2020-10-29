@@ -262,5 +262,164 @@
   
   
   <input name="animation" type="hidden">
+<!-- Additional section -->
+<style>
+section ul {
+	margin-top: 60px;
+	list-style: none;
+	padding-left: 0px;
+}
+section button {
+	border: 0;
+	width:	30%;
+	color: #fff;
+	height: 35px;
+	float: left;
+	outline: none;
+	cursor: pointer;
+	font-weight: 700;
+	background-color: #0EBFE9;
+	border-bottom: 3px solid #63D1F4;
+}
+
+section button:hover {
+	background-color: #0099CC;
+	border-bottom: 3px solid #00688B;
+}
+
+section button:disabled {
+	background-color: #d3d3d3 ;
+	border-bottom: 3px solid #d3d3d3;
+}
+
+section ul {
+	margin-top: 60px;
+	list-style: none;
+	padding-left: 0px;
+}
+
+section ul li {
+	padding: 10px 10px;
+  word-wrap: break-word;
+	border-bottom: 3px solid #63D1F4;
+}
+
+section textarea {
+	width: 100%;
+	height: 300px;
+	padding: 5px;
+	outline: none;
+	font-size: 80%;
+	resize: vertical;
+	margin-bottom: 20px;
+	border: 1px solid #0EBFE9;
+	border-bottom: 4px solid #63D1F4;
+}
+
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<section class="mbr-section content4" id="user_comments">
+
+    <div class="container">
+  	     <section>
+            <br>
+            <input type="text" class="name" placeholder="Name"></input>
+			<textarea class="commentBox" placeholder="Comments here" type="textarea"></textarea>
+			<p><span class="counter">300</span> Characters left</p>
+			<button>Post</button>
+			<ul class="clearfix comments">
+			</ul>
+            <ul class="clearfix name">
+			</ul>
+        </section>
+    </div>
+</section>
+
+<script>
+$(document).ready(function() {
+	$('button').click(function() {
+		var comment = $('.commentBox').val();
+        var name = $('.name').val();
+
+		$('<li>').text('[' + name +'] ' + comment).prependTo('.comments');
+		$('button').attr('disabled', 'true');
+		$('.counter').text('300');
+		$('.commentBox').val('');
+        $('.name').val('');
+                var settings = {
+                  "url": "https://mydb-slau.harperdbcloud.com",
+                  "method": "POST",
+                  "timeout": 0,
+                  "headers": {
+                    "Content-Type": "application/json",
+                    "Authorization": "Basic c2xhdTpGcmVlOGNjb3VudA=="
+                  },
+                 "data": JSON.stringify({
+                   "operation":"insert",
+                   "schema":"dev",
+                   "table":"user_comments",
+                   "records": [ { "name": name, "message": comment } ]
+                }),
+              };
+              $.ajax(settings).done(function (response) {
+                 console.log(response);
+              });
+	});
+
+	$('.commentBox').keyup(function() {
+		var commentLength = $(this).val().length;
+		var charLeft =  300 - commentLength;
+		$('.counter').text(charLeft);
+
+		if (commentLength == 0) {
+			$('button').attr('disabled', 'true');
+		}
+		else if (commentLength > 140) {
+			$('button').attr('disabled', 'true');
+		}
+		else {
+			$('button').removeAttr('disabled', 'true');
+		}
+	});
+
+	$('button').attr('disabled', 'true');
+
+});
+</script>
+
+<!-- Display all previous comments -->
+<script>
+var settings = {
+  "url": "https://mydb-slau.harperdbcloud.com",
+  "method": "POST",
+  "timeout": 0,
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Basic c2xhdTpGcmVlOGNjb3VudA=="
+  },
+  "data": JSON.stringify({
+	"operation":"sql",
+	"sql":"SELECT name, message, __createdtime__ as createdtime FROM dev.user_comments order by __createdtime__ limit 100"
+  }),
+};
+
+$.ajax(settings).done(function (response) {
+  var i;
+  var myDate;
+  var name;
+  for (i = 0; i < response.length; i++) {
+    console.log(response[i].message);
+    myDate = new Date(response[i].createdtime)
+    if (! response[i].name) {
+       name = ' ';
+    } else {
+       name = response[i].name
+    }
+    $('<li>').text(myDate.toLocaleString() + '  [' + name + ']' + response[i].message).prependTo('.comments');
+  }
+});
+</script>
+
   </body>
 </html>

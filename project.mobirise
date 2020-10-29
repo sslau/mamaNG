@@ -701,19 +701,6 @@
                 "active": false
               },
               {
-                "tags": "風趣幽默 Humor ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-22-47-13.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/dhID7YCE5UY",
-                "image": "@PROJECT_PATH@/assets/images/2015-10-16-10.38.46-2000x3556-800x450.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/2015-10-16-10.38.46-2000x3556-800x450-800x450.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Money Talk 生意頭腦",
-                "active": false
-              },
-              {
                 "tags": "風趣幽默 Humor",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-7-18.jpg",
                 "playVideo": true,
@@ -789,6 +776,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Funny Granny 可愛的太婆&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "風趣幽默 Humor ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-29-56.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/sKqDTlZu7wE",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-36-27.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-36-27-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Magician 魔術表演",
                 "active": true
               }
             ]

@@ -1708,12 +1708,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1920x1080.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide1-1920x1080-800x568.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Bill &amp; Tracy 大兒子及媳婦",
                 "active": true
               },
               {

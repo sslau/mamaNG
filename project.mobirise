@@ -1708,21 +1708,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/slide1-1920x1080.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/slide1-1920x1080-800x568.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/slide1-1-1920x1080.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide1-1-1920x1080-800x568.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Bill &amp; Tracy 大兒子及媳婦",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-16792020-9-3-20-34-2.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/K_kdEWVhkto",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05-800x450.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1734,13 +1734,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/richardbetty-658x832.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/richardbetty-658x832-658x832.jpg",
+                "image": "@PROJECT_PATH@/assets/images/presentation1-1-1920x1080.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/presentation1-1-1920x1080-800x619.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Richard &amp; Betty 二兒子及媳婦",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",

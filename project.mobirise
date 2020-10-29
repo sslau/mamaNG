@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#eefbff",
         "#e2dede",
         "#554346",
         "#eadaea",
         "#f7f4f4",
         "#45505b",
-        "#b3294c",
-        "#cbab41"
+        "#b3294c"
       ]
     },
     "versionFirst": "4.7.1",
@@ -820,7 +820,7 @@
           },
           "_name": "header16",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ddf4fa\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    Life in Nursing Home<br>安老院生活</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    母親性格開朗，富同情心丶和藹可親。 每天自己滾動輪椅，逐一房間去探望院友，甚至幫忙餵食丶拿暖開水給他們。她樂於助人，熱心幫忙 ; 每天零晨起床摺毛巾丶打理餐桌丶淋花澆水。差不多安老院所有員工都認識媽媽Ng。她常笑口常開，善於與人交談。 其中一員工說: \" 媽媽Ng 富有生命力，她的笑容從沒間斷 !<br>Mama Ng was cheerful and compassionate. She was strong enough to roll her wheelchair everywhere, room by room she visited the residents.  She was willing to help others enthusiastically, and she even helped feeding them! Our mother kept her hardworking spirit.  She got up early every morning and volunteered to fold towels, to clean up table and water the plants. Almost all the employees of the nursing home know our mother.  She often laughed and socialized with people.  One of the employees said, \"Mama Ng is full of vitality, and her smile never stops! “&nbsp;<br> \n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header1\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#eefbff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"col-md-10 align-center\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    Life in Nursing Home<br>安老院生活</h1>\n                <h3 class=\"mbr-section-subtitle mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">\n                    Beautiful mobile websites\n                </h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>\n                    母親性格開朗，富同情心丶和藹可親。 每天自己滾動輪椅，逐一房間去探望院友，甚至幫忙餵食丶拿暖開水給他們。她樂於助人，熱心幫忙 ; 每天零晨起床摺毛巾丶打理餐桌丶淋花澆水。差不多安老院所有員工都認識媽媽Ng。她常笑口常開，善於與人交談。 其中一員工說: \" 媽媽Ng 富有生命力，她的笑容從沒間斷 !<br>Mama Ng was cheerful and compassionate. She was strong enough to roll her wheelchair everywhere, room by room she visited the residents.  She was willing to help others enthusiastically, and she even helped feeding them! Our mother kept her hardworking spirit.  She got up early every morning and volunteered to fold towels, to clean up table and water the plants. Almost all the employees of the nursing home know our mother.  She often laughed and socialized with people.  One of the employees said, \"Mama Ng is full of vitality, and her smile never stops! “&nbsp;</b><br> \n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-black-outline\" href=\"https://mobiri.se\" data-app-placeholder=\"Type Text\">LEARN MORE</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "sev81gfCUm",
           "_anchor": "header16-11",
           "_protectedParams": [],
@@ -928,7 +928,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Helping Hand 好幫手",
                 "active": false
               },
               {
@@ -936,12 +936,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20190308-wa0007-3-1600x1199.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20190308-wa0007-3-1600x1199-800x450.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890-800x591.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Manicure 美甲",
                 "active": false
               },
               {
@@ -972,16 +972,16 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-8-30.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-20-46.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/aEOFvPgul04",
+                "videoUrl": "https://youtu.be/XqpWhjzUoR0",
                 "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121-800x669.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BOCCE 碌波仔",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1006,7 +1006,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Helping Hand 執枱",
+                "caption": "Good Helper 執枱",
                 "active": false
               },
               {
@@ -1019,20 +1019,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Christmas Celebration 聖誕慶祝",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-9-57.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/6e261a2e-f4e0-45b0-b34a-f6d8d2191c48-900x1600.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/6e261a2e-f4e0-45b0-b34a-f6d8d2191c48-900x1600-800x600.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Santa is Here 聖誕老人呢個好啲",
+                "caption": "Christmas Celebration 慶祝聖誕",
                 "active": false
               },
               {
@@ -1046,6 +1033,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mah Jong 打麻雀",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-9-57.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/70fya9R9pow",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x450.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Santa is Here 聖誕大餐",
                 "active": false
               },
               {
@@ -1072,7 +1072,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BINGO&nbsp;&nbsp;",
-                "active": true
+                "active": false
               }
             ]
           }
@@ -1089,7 +1089,7 @@
           },
           "_name": "content4",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eadaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">&nbsp;Love in Pandemic<br>愛在疫情中</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    今年三月中，在疫情期間，女兒將母親接回家與孫兒一起居往。大家都滿懷喜樂，溫暖和諧，幾乎天天可與其他在海外的家人視像通話，留下很多美好回憶。每當看見曾孫兒的視像時，母親都興奮雀躍，返老還童。母親常掛幸福笑臉，充滿恩典。<br>In mid-March this year when the pandemic started to get worse, we decided to bring our mother home to stay with her family. Everyone was full of joy, warmth and harmony. She could often connect with other overseas family members through video conferencing. In those days we all had a lot of good memories. Whenever our mother saw her great-grandchildren through video conferencing calls, she got very excited and showed her happiness like a child.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eadaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">&nbsp;Love in Pandemic<br>愛在疫情中</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\"><b>\n                    今年三月中，在疫情期間，女兒將母親接回家與孫兒一起居往。大家都滿懷喜樂，溫暖和諧，幾乎天天可與其他在海外的家人視像通話，留下很多美好回憶。每當看見曾孫兒的視像時，母親都興奮雀躍，返老還童。母親常掛幸福笑臉，充滿恩典。</b><br>In mid-March this year when the pandemic started to get worse, we decided to bring our mother home to stay with her family. Everyone was full of joy, warmth and harmony. She could often connect with other overseas family members through video conferencing. In those days we all had a lot of good memories. Whenever our mother saw her great-grandchildren through video conferencing calls, she got very excited and showed her happiness like a child.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "seGEP6r1Ic",
           "_anchor": "content4-1s",
           "_protectedParams": [],
@@ -1284,8 +1284,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880-800x1422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1297,8 +1297,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880-800x1422.jpg",
+                "image": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880-800x1422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1450,7 +1450,7 @@
           },
           "_name": "gallery2",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e2dede\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"3\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e2dede\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_anchor": "gallery2-22",
           "_isUserblock": true,
           "_cid": "seKko7We1i",

@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#e2dede",
+        "#554346",
+        "#eadaea",
         "#f7f4f4",
         "#45505b",
         "#b3294c",
-        "#cbab41",
-        "#fffab1",
-        "#f9dc95",
-        "#f7ab4a"
+        "#cbab41"
       ]
     },
     "versionFirst": "4.7.1",
@@ -1171,7 +1171,7 @@
           },
           "_name": "gallery2",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ceafcd\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eadaea\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_anchor": "gallery2-1u",
           "_isUserblock": true,
           "_cid": "seGGnkPmKY",
@@ -1238,28 +1238,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Angel from Heaven 天跌落嚟嘅",
-                "active": false
+                "active": true
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1941252020-9-2-19-44-21.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200814-215514-800x1422.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200814-215514-800x1422-638x904.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200815-112329-800x1422.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200815-112329-800x1422-724x646.jpeg",
+                "videoUrl": "https://youtu.be/yXw2M5I-ZGc",
+                "image": "@PROJECT_PATH@/assets/images/story-maker-20200818-111812-1620x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200818-111812-1620x2880-800x1422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1281,11 +1268,50 @@
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-1941252020-9-2-19-44-21.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/yXw2M5I-ZGc",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200818-111812-1620x2880.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200818-111812-1620x2880-800x1422.jpg",
+                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-7.57.02-pm-1-810x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-7.57.02-pm-1-810x1440-800x1422.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
+                "image": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20201013-214801-1620x2880-800x1422.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
+                "image": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200823-175426-1620x2880-800x1422.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
+                "playVideo": false,
+                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-7.57.02-pm-810x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-7.57.02-pm-810x1440-800x1422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1310,34 +1336,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200815-110838-1620x2880.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200815-110838-1620x2880-800x1422.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
                 "image": "@PROJECT_PATH@/assets/images/story-maker-20201024-193354-1620x2880-800x1422.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/story-maker-20201024-193354-1620x2880-800x1422-800x1422.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "",
-                "active": true
-              },
-              {
-                "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020927-2026542020-9-2-20-43-6.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/S8ZG2LEOXN8",
-                "image": "@PROJECT_PATH@/assets/images/story-maker-20200818-125140-1620x2880-800x1422-800x1422.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/story-maker-20200818-125140-1620x2880-800x1422-800x1422-800x1422.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1368,7 +1368,7 @@
           },
           "_name": "content5",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/psalm23bg-3-2000x675.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#888787\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Faith&nbsp; &nbsp; &nbsp;Hope&nbsp; &nbsp; Love</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/psalm23bg-3-2000x675.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#888787\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Faith&nbsp; &nbsp; &nbsp;Hope&nbsp; &nbsp; Love</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobiri.se\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "seKRAHRras",
           "_anchor": "content5-24",
           "_protectedParams": [],
@@ -1450,7 +1450,7 @@
           },
           "_name": "gallery2",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e2dede\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_anchor": "gallery2-22",
           "_isUserblock": true,
           "_cid": "seKko7We1i",
@@ -1504,20 +1504,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Reading Bible 讀經的婆婆&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "信仰人生 Faith ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/xdKGxbRjDvE",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "I need Jesus 我要耶穌",
-                "active": false
+                "active": true
               },
               {
                 "tags": "信仰人生 Faith ",
@@ -1569,7 +1556,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Praising to the end 頌讚到永遠&nbsp;",
-                "active": true
+                "active": false
               }
             ]
           }

@@ -1310,7 +1310,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Job training 義工培訓",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1408,13 +1408,13 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x504.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img00237-20120711-1807-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img00237-20120711-1807-2000x1500-800x539.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Santa is Here 聖誕大餐",
-                "active": false
+                "caption": "BINGO<br>",
+                "active": true
               },
               {
                 "tags": "Awesome",

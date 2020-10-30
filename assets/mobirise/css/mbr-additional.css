@@ -894,7 +894,7 @@ section.lazy-placeholder:after {
   font-size: 30px;
   height: 69px;
   left: 50%;
-  opacity: 1;
+  opacity: 0;
   position: absolute;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
@@ -921,19 +921,6 @@ section.lazy-placeholder:after {
 }
 .cid-seBm2N4drw .mbr-slider .modal-body .close {
   background: #1b1b1b;
-}
-.cid-seBm2N4drw .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-seBm2N4drw .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;

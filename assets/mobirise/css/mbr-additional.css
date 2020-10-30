@@ -644,14 +644,17 @@ section.lazy-placeholder:after {
   font-size: 40px;
   line-height: 27px;
 }
+.cid-seRdv6f4cy .carousel-control {
+  opacity: 0;
+}
 .cid-seRdv6f4cy .carousel-control:hover {
   background: #1b1b1b;
   color: #fff;
-  opacity: 1;
+  opacity: 0;
 }
 @media (max-width: 767px) {
-  .cid-seRdv6f4cy .container .carousel-control {
-    margin-bottom: 0;
+  .cid-seRdv6f4cy .mbr-arrow {
+    display: flex;
   }
 }
 .cid-seRdv6f4cy .boxed-slider {

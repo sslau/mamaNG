@@ -1264,16 +1264,16 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
-                "playVideo": false,
-                "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-800x600.jpeg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-30-33.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/bzkLenASpqM",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020927-162020.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-162020-800x637.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Helping hand 好幫手",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1299,19 +1299,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "RecreationGame好玩呀",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890-800x591.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Manicure 美甲",
                 "active": false
               },
               {
@@ -1319,12 +1306,25 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/27a50200-fe0d-4fd9-b4fc-b7428eade5b1-1200x1600.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/27a50200-fe0d-4fd9-b4fc-b7428eade5b1-1200x1600-800x600.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/27a50200-fe0d-4fd9-b4fc-b7428eade5b1-1-1200x1600.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/27a50200-fe0d-4fd9-b4fc-b7428eade5b1-1-1200x1600-800x531.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Christmas Celebration 慶祝聖誕",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890-800x630.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Manicure 美甲",
                 "active": false
               },
               {
@@ -1530,7 +1530,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "KissKiss 錫錫",
-                "active": false
+                "active": true
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
@@ -1660,7 +1660,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "RollerCoasterLife好玩呀",
-                "active": true
+                "active": false
               }
             ]
           }

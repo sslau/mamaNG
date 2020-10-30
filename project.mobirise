@@ -1307,7 +1307,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Job training 義工培訓",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1402,15 +1402,15 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/gmKta51LVnE",
-                "image": "@PROJECT_PATH@/assets/images/img-8794-2000x1500.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8794-2000x1500-800x513.jpeg",
+                "videoUrl": "https://youtu.be/70fya9R9pow",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x504.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "",
+                "caption": "Santa is Here 聖誕大餐",
                 "active": false
               },
               {
@@ -1424,15 +1424,15 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "MahJong 打麻雀",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
-                "image": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1032x581.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1032x581-800x580.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1-1032x581.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1-1032x581-640x578.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1454,15 +1454,15 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x504.jpeg",
+                "videoUrl": "https://youtu.be/gmKta51LVnE",
+                "image": "@PROJECT_PATH@/assets/images/img-8794-2000x1500.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8794-2000x1500-800x513.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Santa is Here 聖誕大餐",
+                "caption": "",
                 "active": false
               },
               {

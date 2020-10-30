@@ -19,11 +19,11 @@ body {
 }
 .display-2 {
   font-family: 'Lobster', display;
-  font-size: 3.5rem;
+  font-size: 3.25rem;
   font-display: swap;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5.6rem;
+  font-size: 5.2rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -61,9 +61,9 @@ body {
     line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.6rem;
+    font-size: calc( 1.7874999999999999rem + (3.25 - 1.7874999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7874999999999999rem + (3.25 - 1.7874999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;

@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Lobster:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:400&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
@@ -18,7 +18,7 @@ body {
   font-size: 9.6rem;
 }
 .display-2 {
-  font-family: 'Lobster', display;
+  font-family: 'Bebas Neue', display;
   font-size: 3.5rem;
   font-display: swap;
 }
@@ -862,8 +862,8 @@ section.lazy-placeholder:after {
   color: #f9dc95;
 }
 .cid-seRdv6f4cy H2 {
-  color: #f9dc95;
-  text-align: center;
+  color: #ffffff;
+  text-align: right;
 }
 .cid-seByoteW85 {
   padding-top: 60px;

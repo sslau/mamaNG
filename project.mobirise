@@ -15,7 +15,7 @@
         "mainFont": "Rubik",
         "display1Font": "Noto Sans",
         "display1Size": "6",
-        "display2Font": "Lobster",
+        "display2Font": "Bebas Neue",
         "display2Size": "3.5",
         "display5Font": "Rubik",
         "display5Size": "1.5",
@@ -57,6 +57,21 @@
         "css": "'Noto Sans', sans-serif",
         "name": "Noto Sans",
         "url": "https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i"
+      },
+      {
+        "css": "'Noto Sans TC', sans-serif",
+        "name": "Noto Sans TC",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900"
+      },
+      {
+        "css": "'Noto Sans JP', sans-serif",
+        "name": "Noto Sans JP",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,300,400,500,700,900"
+      },
+      {
+        "css": "'Bebas Neue', display",
+        "name": "Bebas Neue",
+        "url": "https://fonts.googleapis.com/css?family=Bebas+Neue:400"
       }
     ],
     "imageResize": true,
@@ -311,8 +326,8 @@
               "color": "#f9dc95"
             },
             "H2": {
-              "color": "#f9dc95",
-              "text-align": "center"
+              "color": "#ffffff",
+              "text-align": "right"
             }
           },
           "_name": "slider1",
@@ -330,7 +345,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": "true",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplayInterval": "1000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -346,7 +361,7 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<br><br><br><br><br><br><br>劉吳月華姊妹<br>生命的頌讚",
+                "textTitle": "<br><br><br><br><br><br><br><br>劉吳月華姊妹<br>生命的頌讚",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -369,7 +384,7 @@
                 "textTitle": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<br><br><br><br><br>Mama NG <br>Celebration Of Life",
+                "text": "<br><br><br><br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               },
@@ -378,15 +393,15 @@
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
+                "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "IMAGE SLIDE",
+                "textTitle": "<br><br><br><br><br><br><br><br>Mama NG&nbsp;<div>&nbsp; &nbsp;Celebration Of Life</div>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",

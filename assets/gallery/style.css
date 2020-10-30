@@ -23,7 +23,7 @@
   font-family: 'MobiriseIcons' !important;
   font-size: 3rem !important;
   color: #fff;
-  opacity: 1;
+  opacity: 0;
   transition: .2s opacity ease-in-out;
   z-index: 5; }
 

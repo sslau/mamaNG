@@ -267,7 +267,7 @@
 </div>
 <!-- Place your own code above -->
 
-</section><style class="cid-seSAgFvU7d" id="witsec-html-block-2g" data-rv-view="3341">
+</section><style class="cid-seSAgFvU7d" id="witsec-html-block-2g" data-rv-view="4169">
 section ul {
 	margin-top: 60px;
 	list-style: none;
@@ -320,7 +320,7 @@ section textarea {
 	border-bottom: 4px solid #63D1F4;
 }
 
-</style><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" class="cid-seSAgFvU7d" id="witsec-html-block-2g" data-rv-view="3341"></script><section class="mbr-section content4 cid-seSAgFvU7d" id="witsec-html-block-2g">
+</style><section class="mbr-section content4 cid-seSAgFvU7d" id="witsec-html-block-2g">
 
     <div class="container">
   	     <section>
@@ -335,87 +335,7 @@ section textarea {
 			</ul>
         </section>
     </div>
-</section><script class="cid-seSAgFvU7d" id="witsec-html-block-2g" data-rv-view="3341">
-$(document).ready(function() {
-	$('button').click(function() {
-		var comment = $('.commentBox').val();
-        var name = $('.name').val();
-
-		$('<li>').text('[' + name +'] ' + comment).prependTo('.comments');
-		$('button').attr('disabled', 'true');
-		$('.counter').text('300');
-		$('.commentBox').val('');
-        $('.name').val('');
-                var settings = {
-                  "url": "https://mydb-slau.harperdbcloud.com",
-                  "method": "POST",
-                  "timeout": 0,
-                  "headers": {
-                    "Content-Type": "application/json",
-                    "Authorization": "Basic c2xhdTpGcmVlOGNjb3VudA=="
-                  },
-                 "data": JSON.stringify({
-                   "operation":"insert",
-                   "schema":"dev",
-                   "table":"user_comments",
-                   "records": [ { "name": name, "message": comment } ]
-                }),
-              };
-              $.ajax(settings).done(function (response) {
-                 console.log(response);
-              });
-	});
-
-	$('.commentBox').keyup(function() {
-		var commentLength = $(this).val().length;
-		var charLeft =  300 - commentLength;
-		$('.counter').text(charLeft);
-
-		if (commentLength == 0) {
-			$('button').attr('disabled', 'true');
-		}
-		else if (commentLength > 140) {
-			$('button').attr('disabled', 'true');
-		}
-		else {
-			$('button').removeAttr('disabled', 'true');
-		}
-	});
-
-	$('button').attr('disabled', 'true');
-
-});
-</script><script class="cid-seSAgFvU7d" id="witsec-html-block-2g" data-rv-view="3341">
-var settings = {
-  "url": "https://mydb-slau.harperdbcloud.com",
-  "method": "POST",
-  "timeout": 0,
-  "headers": {
-    "Content-Type": "application/json",
-    "Authorization": "Basic c2xhdTpGcmVlOGNjb3VudA=="
-  },
-  "data": JSON.stringify({
-	"operation":"sql",
-	"sql":"SELECT name, message, __createdtime__ as createdtime FROM dev.user_comments order by __createdtime__ limit 100"
-  }),
-};
-
-$.ajax(settings).done(function (response) {
-  var i;
-  var myDate;
-  var name;
-  for (i = 0; i < response.length; i++) {
-    console.log(response[i].message);
-    myDate = new Date(response[i].createdtime)
-    if (! response[i].name) {
-       name = ' ';
-    } else {
-       name = response[i].name
-    }
-    $('<li>').text(myDate.toLocaleDateString() + '  [' + name + ']' + response[i].message).prependTo('.comments');
-  }
-});
-</script><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/g" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/c" style="color:#aaa;">The</a> page was built with Mobirise</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>  <script src="assets/masonry/masonry.pkgd.min.js"></script>  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>  <script src="assets/theme/js/script.js"></script>  <script src="assets/slidervideo/script.js"></script>  <script src="assets/gallery/player.min.js"></script>  <script src="assets/gallery/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/x" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Made with Mobirise - <a href="https://mobirise.site/k" style="color:#aaa;">See here</a></p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/jquery.mb.ytplayer.min.js"></script>  <script src="assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>  <script src="assets/masonry/masonry.pkgd.min.js"></script>  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>  <script src="assets/theme/js/script.js"></script>  <script src="assets/slidervideo/script.js"></script>  <script src="assets/gallery/player.min.js"></script>  <script src="assets/gallery/script.js"></script>  
   
   
   <input name="animation" type="hidden">

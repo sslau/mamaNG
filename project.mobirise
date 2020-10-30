@@ -1250,6 +1250,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left"
             }
           },
           "_name": "gallery1",
@@ -1449,7 +1452,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Tai Chi 太極",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tai Chi 太極",
                 "active": false
               },
               {
@@ -1972,7 +1975,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Praising to the end 頌讚到永遠&nbsp;",
+                "caption": "Praising to the end 頌讚到永遠 Oct. 15, 2020&nbsp;",
                 "active": false
               }
             ]

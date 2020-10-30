@@ -1081,7 +1081,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Funny Granny 可愛的太婆&nbsp;",
-                "active": true
+                "active": false
               },
               {
                 "tags": "風趣幽默 Humor ",
@@ -1095,6 +1095,19 @@
                 "customStyle1": "display-7",
                 "caption": "Magician 魔術表演",
                 "active": false
+              },
+              {
+                "tags": "風趣幽默 Humor ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-11-4.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/zLgnYUWb0gc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "RollerCoasterLife好玩呀&nbsp;",
+                "active": true
               }
             ]
           }
@@ -1530,7 +1543,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "KissKiss 錫錫",
-                "active": true
+                "active": false
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
@@ -1647,20 +1660,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
-              },
-              {
-                "tags": "愛在疫中 Love in Pandemic",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-11-4.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/zLgnYUWb0gc",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-29-56.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-29-56-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "RollerCoasterLife好玩呀",
-                "active": false
+                "active": true
               }
             ]
           }

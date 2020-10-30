@@ -332,7 +332,7 @@
           },
           "_name": "slider1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n    <div class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"false\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n     </div>\n</section>\n",
+          "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n  \n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n \n    <div class=\"mbr-arrow\">\n        <a href=\"#next\"> Next</a>\n     </div>\n</section>\n",
           "_cid": "seRdv6f4cy",
           "_anchor": "slider1-2a",
           "_PHPplaceholders": [],
@@ -1072,9 +1072,9 @@
               },
               {
                 "tags": "風趣幽默 Humor ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-047532020-9-3-2-36-27.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Vg-9cFqWBKw?rel=0",
+                "videoUrl": "https://youtu.be/4w1Mt63aLFk",
                 "image": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-07402020-9-3-0-24-21-800x450.jpg",
                 "alt": "",
@@ -1237,16 +1237,16 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890-800x591.jpeg",
+                "videoUrl": "https://youtu.be/70fya9R9pow",
+                "image": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747-800x600.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Manicure 美甲",
+                "caption": "Good Helper 執枱",
                 "active": false
               },
               {
@@ -1290,28 +1290,28 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020929-1842532020-9-4-23-12-41.jpg",
-                "playVideo": true,
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020929_1842532020-9-4_23-12-41.jpg",
+                "playVideo": false,
                 "videoUrl": "https://youtu.be/zLgnYUWb0gc",
-                "image": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20151112-135739-2000x1125.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20151112-135739-2000x1125-800x505.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "RollerCoasterLife好玩呀",
+                "caption": "RecreationGame好玩呀",
                 "active": true
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_07402020-9-3_0-9-57.jpg",
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
-                "videoUrl": "https://youtu.be/70fya9R9pow",
-                "image": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/6dbd661a-d141-42f4-a1a1-7100258a3a7c-1-1328x747-800x600.jpeg",
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.56.25-pm-1255x890-800x591.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Good Helper 執枱",
+                "caption": "Manicure 美甲",
                 "active": false
               },
               {
@@ -1332,8 +1332,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-900x1600.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-900x1600-773x579.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-1-900x1600.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-1-900x1600-763x463.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1346,7 +1346,7 @@
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/70fya9R9pow",
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x450.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-9.54.57-pm-1600x777-800x453.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1476,7 +1476,7 @@
           },
           "_name": "gallery2",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eadaea\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"5\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eadaea\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_anchor": "gallery2-1u",
           "_isUserblock": true,
           "_cid": "seGGnkPmKY",
@@ -1543,7 +1543,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Angel from Heaven 天跌落嚟嘅",
-                "active": true
+                "active": false
               },
               {
                 "tags": "愛在疫中 Love in Pandemic",
@@ -1648,6 +1648,19 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": false
+              },
+              {
+                "tags": "愛在疫中 Love in Pandemic",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-11-4.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/zLgnYUWb0gc",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-29-56.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-3-22-29-56-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "RollerCoasterLife好玩呀",
+                "active": true
               }
             ]
           }

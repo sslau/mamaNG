@@ -59,7 +59,7 @@
   font-size: 30px;
   height: 69px;
   left: 50%;
-  opacity: 0;
+  opacity: 1;
   position: absolute;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);

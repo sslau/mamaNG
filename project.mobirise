@@ -329,7 +329,7 @@
               "color": "#f9dc95"
             },
             "H2": {
-              "color": "#e4d295",
+              "color": "#f9dc95",
               "text-align": "right"
             }
           },
@@ -355,7 +355,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/hero2-2000x2239.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -395,7 +395,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -407,7 +407,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "<br><br><br><br><br><br><br>Mama NG <br>Celebration Of Life",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",

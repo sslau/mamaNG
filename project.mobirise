@@ -1089,20 +1089,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BabyTalk 要好好打算&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "人生教誨 Life Lessons",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-13-8.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/Q-bpl61gM8E",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020926-2216382020-9-1-23-32-35-640x480-640x480.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Love Lesson&nbsp;",
-                "active": false
+                "active": true
               },
               {
                 "tags": "風趣幽默 Humor ",
@@ -1132,6 +1119,19 @@
               },
               {
                 "tags": "風趣幽默 Humor ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-1454492020-9-5-17-17-13.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/PDx7eK1EQ_4",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Happiness 又辛苦又快樂",
+                "active": false
+              },
+              {
+                "tags": "風趣幽默 Humor ",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-11-4.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/zLgnYUWb0gc",
@@ -1142,19 +1142,6 @@
                 "customStyle1": "display-7",
                 "caption": "RollerCoasterLife好玩呀&nbsp;",
                 "active": false
-              },
-              {
-                "tags": "風趣幽默 Humor ",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-1454492020-9-5-17-17-13.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/PDx7eK1EQ_4",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020930-051212020-9-5-1-9-8-640x480.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Happy &amp; Sad 又辛苦又快樂",
-                "active": true
               }
             ]
           }

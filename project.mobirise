@@ -1301,16 +1301,16 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020931-15872020-9-6-10-6-30.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/gmKta51LVnE",
+                "videoUrl": "https://youtu.be/gLJ78UfCEk4",
                 "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Job training 義工培訓",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1379,7 +1379,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-7313-2000x2667.jpeg",
@@ -1414,11 +1414,11 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BINGO<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-1-763x463.jpeg",
@@ -1431,7 +1431,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1-1032x581.jpeg",
@@ -1444,7 +1444,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/pt2017-06-05-14-35-10-640x896.jpeg",
@@ -1457,7 +1457,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-8794-2000x1500.jpeg",
@@ -1470,7 +1470,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-6434-2000x2667.jpeg",

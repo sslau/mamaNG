@@ -375,7 +375,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-28-at-11.33.50-pm-1-1594x1600.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -389,13 +389,13 @@
                 "textTitle": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<br><br><br><br><br><br>Mama NG&nbsp;<br>Celebration Of Life<br>",
+                "text": "<br><br><br><br><br>Mama NG&nbsp;<br>Celebration Of Life<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/portrait-1-4-1340x1121.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -847,8 +847,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/0ce9ad9c-b369-4e82-8f63-5cc422436546-1-1024x768.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/0ce9ad9c-b369-4e82-8f63-5cc422436546-1-1024x768-800x600.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/0ce9ad9c-b369-4e82-8f63-5cc422436546-2-1024x768.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/0ce9ad9c-b369-4e82-8f63-5cc422436546-2-1024x768-800x592.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-2.53.08-pm-1-1024x768.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-2.53.08-pm-1-1024x768-637x477.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -866,7 +879,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -879,20 +892,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-2.53.08-pm-1-1024x768.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-10-30-at-2.53.08-pm-1-1024x768-757x567.jpeg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",

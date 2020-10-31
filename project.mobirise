@@ -2186,7 +2186,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Kaitlynn 孫女",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -2206,13 +2206,13 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-4-2-27-58.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/f6KvCTGq6nM",
-                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-16792020-9-3-20-34.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-16792020-9-3-20-34-640x478.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-16792020-9-3-20.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-16792020-9-3-20-591x443.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "See Sing 三兒子",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2225,6 +2225,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Shannon 三媳婦",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020930-1454492020-9-5-19-17-31.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/gtZaiH5Fw7I",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020928-2214162020-9-482x362.jpeg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Nicky 三女婿",
                 "active": false
               }
             ]

@@ -1301,16 +1301,16 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020931-15872020-9-6-10-6-30.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/gLJ78UfCEk4",
+                "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mobirise2020927-0162020-9-2-0-8-22-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Job training 義工培訓",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1379,7 +1379,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-7313-2000x2667.jpeg",
@@ -1414,11 +1414,11 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "BINGO<br>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/0217823f-5ebf-4dfa-80fc-8490f1a3705f-1-763x463.jpeg",
@@ -1431,7 +1431,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-20150227-wa0004-1-1032x581.jpeg",
@@ -1444,7 +1444,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/pt2017-06-05-14-35-10-640x896.jpeg",
@@ -1457,7 +1457,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-8794-2000x1500.jpeg",
@@ -1470,7 +1470,7 @@
               },
               {
                 "tags": "Awesome",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928_122392020-9-3_12-3-8.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020928-122392020-9-3-12-3-8.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/gmKta51LVnE",
                 "image": "@PROJECT_PATH@/assets/images/img-6434-2000x2667.jpeg",
@@ -2172,7 +2172,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Mumu 孫女",
+                "caption": "Kaitlynn 孫女",
                 "active": false
               },
               {
@@ -2281,8 +2281,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>",
-            "<script>\n$(document).ready(function() {\n\t$('button').click(function() {\n\t\tvar comment = $('.commentBox').val();\n        var name = $('.name').val();\n\n\t\t$('<li>').text('[' + name +'] ' + comment).prependTo('.comments');\n\t\t$('button').attr('disabled', 'true');\n\t\t$('.counter').text('1000');\n\t\t$('.commentBox').val('');\n        $('.name').val('');\n                var settings = {\n                  \"url\": \"https://mydb-slau.harperdbcloud.com\",\n                  \"method\": \"POST\",\n                  \"timeout\": 0,\n                  \"headers\": {\n                    \"Content-Type\": \"application/json\",\n                    \"Authorization\": \"Basic c2xhdTpGcmVlOGNjb3VudA==\"\n                  },\n                 \"data\": JSON.stringify({\n                   \"operation\":\"insert\",\n                   \"schema\":\"dev\",\n                   \"table\":\"user_comments\",\n                   \"records\": [ { \"name\": name, \"message\": comment } ]\n                }),\n              };\n              $.ajax(settings).done(function (response) {\n                 console.log(response);\n              });\n\t});\n\n\t$('.commentBox').keyup(function() {\n\t\tvar commentLength = $(this).val().length;\n\t\tvar charLeft =  1000 - commentLength;\n\t\t$('.counter').text(charLeft);\n\n\t\tif (commentLength == 0) {\n\t\t\t$('button').attr('disabled', 'true');\n\t\t}\n\t\telse if (commentLength > 1000) {\n\t\t\t$('button').attr('disabled', 'true');\n\t\t}\n\t\telse {\n\t\t\t$('button').removeAttr('disabled', 'true');\n\t\t}\n\t});\n\n\t$('button').attr('disabled', 'true');\n\n});\n</script>",
-            "<script>\nvar settings = {\n  \"url\": \"https://mydb-slau.harperdbcloud.com\",\n  \"method\": \"POST\",\n  \"timeout\": 0,\n  \"headers\": {\n    \"Content-Type\": \"application/json\",\n    \"Authorization\": \"Basic c2xhdTpGcmVlOGNjb3VudA==\"\n  },\n  \"data\": JSON.stringify({\n\t\"operation\":\"sql\",\n\t\"sql\":\"SELECT name, message, __createdtime__ as createdtime FROM dev.user_comments order by __createdtime__ limit 100\"\n  }),\n};\n\n$.ajax(settings).done(function (response) {\n  var i;\n  var myDate;\n  var name;\n  for (i = 0; i < response.length; i++) {\n    console.log(response[i].message);\n    myDate = new Date(response[i].createdtime)\n    if (! response[i].name) {\n       name = ' ';\n    } else {\n       name = response[i].name\n    }\n    $('<li>').text(myDate.toLocaleDateString() + '  [' + name + ']' + response[i].message).prependTo('.comments');\n  }\n});\n</script>"
+            "<script>\n$(document).ready(function() {\n\t$('button').click(function() {\n\t\tvar comment = $('.commentBox').val();\n        var name = $('.name').val();\n\n\t\t$('<li>').text('[' + name +'] ' + comment).prependTo('.comments');\n\t\t$('button').attr('disabled', 'true');\n\t\t$('.counter').text('1000');\n\t\t$('.commentBox').val('');\n        $('.name').val('');\n                var settings = {\n                  \"url\": \"https://mydb-slau.harperdbcloud.com\",\n                  \"method\": \"POST\",\n                  \"timeout\": 0,\n                  \"headers\": {\n                    \"Content-Type\": \"application/json\",\n                    \"Authorization\": \"Basic c2xhdTpFQ0NFS0NGYW1pbHk=\"\n                  },\n                 \"data\": JSON.stringify({\n                   \"operation\":\"insert\",\n                   \"schema\":\"dev\",\n                   \"table\":\"user_comments\",\n                   \"records\": [ { \"name\": name, \"message\": comment } ]\n                }),\n              };\n              $.ajax(settings).done(function (response) {\n                 console.log(response);\n              });\n\t});\n\n\t$('.commentBox').keyup(function() {\n\t\tvar commentLength = $(this).val().length;\n\t\tvar charLeft =  1000 - commentLength;\n\t\t$('.counter').text(charLeft);\n\n\t\tif (commentLength == 0) {\n\t\t\t$('button').attr('disabled', 'true');\n\t\t}\n\t\telse if (commentLength > 1000) {\n\t\t\t$('button').attr('disabled', 'true');\n\t\t}\n\t\telse {\n\t\t\t$('button').removeAttr('disabled', 'true');\n\t\t}\n\t});\n\n\t$('button').attr('disabled', 'true');\n\n});\n</script>",
+            "<script>\nvar settings = {\n  \"url\": \"https://mydb-slau.harperdbcloud.com\",\n  \"method\": \"POST\",\n  \"timeout\": 0,\n  \"headers\": {\n    \"Content-Type\": \"application/json\",\n    \"Authorization\": \"Basic c2xhdTpFQ0NFS0NGYW1pbHk=\"\n  },\n  \"data\": JSON.stringify({\n\t\"operation\":\"sql\",\n\t\"sql\":\"SELECT name, message, __createdtime__ as createdtime FROM dev.user_comments order by __createdtime__ limit 100\"\n  }),\n};\n\n$.ajax(settings).done(function (response) {\n  var i;\n  var myDate;\n  var name;\n  for (i = 0; i < response.length; i++) {\n    console.log(response[i].message);\n    myDate = new Date(response[i].createdtime)\n    if (! response[i].name) {\n       name = ' ';\n    } else {\n       name = response[i].name\n    }\n    $('<li>').text(myDate.toLocaleDateString() + '  [' + name + ']' + response[i].message).prependTo('.comments');\n  }\n});\n</script>"
           ],
           "_protectedParams": [],
           "_global": false,
